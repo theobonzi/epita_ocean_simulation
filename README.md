@@ -1,4 +1,4 @@
-# RAYMARCHING OCEAN
+# 🌊 RAYMARCHING OCEAN
 
 ## Contexte du Projet
 Ce projet a été réalisé dans le cadre du cours de Synthèse d'Image à EPITA. Il s'agit d'une simulation des vagues océaniques en utilisant la technique du raymarching et en se basant sur le papier de recherche de [Jerry Tessendorf (2001)](https://people.computing.clemson.edu/~jtessen/reports/papers_files/coursenotes2004.pdf). L'objectif était de recréer de manière réaliste les mouvements et l'aspect visuel des vagues océaniques.
