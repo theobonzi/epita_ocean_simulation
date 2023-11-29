@@ -1,10 +1,7 @@
 # RAYMARCHING OCEAN
 
 ## Contexte du Projet
-Ce projet a été réalisé dans le cadre du cours de Synthèse d'Image à EPITA. Il s'agit d'une simulation des vagues océaniques en utilisant la technique de raymarching, inspirée par le papier de recherche de Jerry Tessendorf (2001). L'objectif était de recréer de manière réaliste les mouvements et l'aspect visuel des vagues océaniques.
-
-## Pourquoi Jerry Tessendorf?
-Jerry Tessendorf est renommé pour sa méthode innovante dans la simulation des fluides, particulièrement les vagues océaniques. Ce qui distingue son travail est l'utilisation de données réelles pour informer le modèle de vagues, permettant un rendu plus réaliste. Son approche combine l'exactitude scientifique avec la faisabilité computationnelle, faisant de son papier un choix idéal pour notre projet visant à simuler de manière convaincante les vagues d'un océan.
+Ce projet a été réalisé dans le cadre du cours de Synthèse d'Image à EPITA. Il s'agit d'une simulation des vagues océaniques en utilisant la technique du raymarching et en se basant sur le papier de recherche de [Jerry Tessendorf (2001)](https://people.computing.clemson.edu/~jtessen/reports/papers_files/coursenotes2004.pdf). L'objectif était de recréer de manière réaliste les mouvements et l'aspect visuel des vagues océaniques.
 
 ## Description Technique
 Le projet s'articule autour de plusieurs étapes clés pour simuler les vagues :
